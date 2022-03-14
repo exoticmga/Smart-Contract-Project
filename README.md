@@ -1,2 +1,2 @@
 # Smart-Contract-Project
-This is first smart contract project build with hardhat.
+This is my first smart contract project build with hardhat.
